@@ -1,0 +1,10 @@
+feature,importance
+median_income,0.36961165
+ocean_proximity,0.3686332
+latitude,0.05906719
+longitude,0.052700393
+housing_median_age,0.050291277
+population,0.03226051
+total_bedrooms,0.029301563
+households,0.02203402
+total_rooms,0.016100109
